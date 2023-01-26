@@ -1,2 +1,2 @@
 # data_science_portfolio
- Quarto Blog with my Data Science Portfolio
+ [Quarto Blog](https://lluisnavarro.quarto.pub/lnavarrogi) with my Data Science Portfolio.
