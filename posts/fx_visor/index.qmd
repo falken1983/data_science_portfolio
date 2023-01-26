@@ -1,0 +1,16 @@
+---
+title: "FX Visor"
+author: "Lluís Navarro-Girbés"
+date: "2023-01-22"
+categories: [news, data, visualizations, quantitative finance]
+---
+
+`fx_visor` is a simple [**Streamlit**](https://streamlit.io)-based web application.
+
+Comparative time-series visualizations brings in a key component of financial analysis in order to get the intuition of trendy and underperforming financial assets.
+
+`fx_visor` is the data visualization module of the data project [`fx_letor`](https://github.com/falken1983/fx_letor) with the aim to predict rankings of a set of currencies by means of Machine Learning _Learning-to-Rank_ models. This could facilitate investment decision making, easing dynamic portfolio construction.
+
+Both `fx_visor`and `fx_letor` are currently under development.
+
+[![fx_visor deployed at Streamlit Cloud](./st_scrot.jpg)](https://falken1983-fx-letor-streamlitfx-visor-u4ngi5.streamlit.app/)

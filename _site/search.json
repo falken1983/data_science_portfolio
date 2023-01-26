@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Lluís Navarro-Girbés",
+    "section": "",
+    "text": "I recently expanded my skill set to include topics like Quarto, Tableau, statmodels, scikit-learn, pytorch, working in cross-language R/Python environment using Reticulate, and data visualizations using animation and interactivity by means of streamlit and shiny for Python frameworks. I am passionate about gravel and road cycling as well as indie Cinema."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Data Projects",
+    "section": "",
+    "text": "FX Visor\n\n\n\n\n\n\n\nnews\n\n\ndata\n\n\nvisualizations\n\n\nquantitative finance\n\n\n\n\n\n\n\n\n\n\n\nJan 22, 2023\n\n\nLluís Navarro-Girbés\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lluís Navarro-Girbés",
+    "section": "",
+    "text": "I recently expanded my skill set to include topics like Quarto, Tableau, statmodels, scikit-learn, pytorch, working in cross-language R/Python environment using Reticulate, and data visualizations using animation and interactivity by means of streamlit and shiny for Python frameworks. I am passionate about gravel and road cycling as well as indie Cinema."
+  },
+  {
+    "objectID": "posts/fx_visor/index.html",
+    "href": "posts/fx_visor/index.html",
+    "title": "FX Visor",
+    "section": "",
+    "text": "Comparative time-series visualizations brings in a key component of financial analysis in order to get the intuition of trendy and underperforming financial assets.\nfx_visor is the data visualization module of the data project fx_letor with the aim to predict rankings of a set of currencies by means of Machine Learning Learning-to-Rank models. This could facilitate investment decision making, easing dynamic portfolio construction.\nBoth fx_visorand fx_letor are currently under development.\n\n\n\nfx_visor deployed at Streamlit Cloud"
+  }
+]
